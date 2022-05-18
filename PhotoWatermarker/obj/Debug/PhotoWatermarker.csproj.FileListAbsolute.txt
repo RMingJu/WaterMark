@@ -1,0 +1,10 @@
+D:\02.Develop\PhotoWatermarker\PhotoWatermarker\bin\Debug\PhotoWatermarker.exe.config
+D:\02.Develop\PhotoWatermarker\PhotoWatermarker\bin\Debug\PhotoWatermarker.exe
+D:\02.Develop\PhotoWatermarker\PhotoWatermarker\bin\Debug\PhotoWatermarker.pdb
+D:\02.Develop\PhotoWatermarker\PhotoWatermarker\obj\Debug\PhotoWatermarker.csprojAssemblyReference.cache
+D:\02.Develop\PhotoWatermarker\PhotoWatermarker\obj\Debug\PhotoWatermarker.Form1.resources
+D:\02.Develop\PhotoWatermarker\PhotoWatermarker\obj\Debug\PhotoWatermarker.Properties.Resources.resources
+D:\02.Develop\PhotoWatermarker\PhotoWatermarker\obj\Debug\PhotoWatermarker.csproj.GenerateResource.cache
+D:\02.Develop\PhotoWatermarker\PhotoWatermarker\obj\Debug\PhotoWatermarker.csproj.CoreCompileInputs.cache
+D:\02.Develop\PhotoWatermarker\PhotoWatermarker\obj\Debug\PhotoWatermarker.exe
+D:\02.Develop\PhotoWatermarker\PhotoWatermarker\obj\Debug\PhotoWatermarker.pdb
